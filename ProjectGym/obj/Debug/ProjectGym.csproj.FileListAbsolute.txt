@@ -1,0 +1,177 @@
+E:\پروژه ها\ProjectGym\ProjectGym\bin\ProjectGym.dll.config
+E:\پروژه ها\ProjectGym\ProjectGym\bin\ProjectGym.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\ProjectGym.pdb
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\csc.exe
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\csc.exe.config
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\csc.rsp
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\csi.exe
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\csi.exe.config
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\csi.rsp
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\Microsoft.Managed.Core.targets
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.AppContext.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.Collections.Immutable.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.Console.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.Globalization.Calendars.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.IO.Compression.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.IO.FileSystem.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.Net.Http.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.Net.Sockets.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.Reflection.Metadata.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.ValueTuple.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.Xml.XmlDocument.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.Xml.XPath.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\vbc.exe
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\vbc.exe.config
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\vbc.rsp
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\VBCSCompiler.exe
+E:\پروژه ها\ProjectGym\ProjectGym\bin\roslyn\VBCSCompiler.exe.config
+E:\پروژه ها\ProjectGym\ProjectGym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\پروژه ها\ProjectGym\ProjectGym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\پروژه ها\ProjectGym\ProjectGym\obj\Debug\ProjectGym.csproj.AssemblyReference.cache
+E:\پروژه ها\ProjectGym\ProjectGym\obj\Debug\ProjectGym.csproj.CoreCompileInputs.cache
+E:\پروژه ها\ProjectGym\ProjectGym\obj\Debug\ProjectGym.csproj.CopyComplete
+E:\پروژه ها\ProjectGym\ProjectGym\obj\Debug\ProjectGym.dll
+E:\پروژه ها\ProjectGym\ProjectGym\obj\Debug\ProjectGym.pdb
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\ProjectGym.dll.config
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\ProjectGym.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\ProjectGym.pdb
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\csc.exe
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\csc.exe.config
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\csc.rsp
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\csi.exe
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\csi.exe.config
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\csi.rsp
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\Microsoft.Managed.Core.targets
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.AppContext.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.Collections.Immutable.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.Console.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.Globalization.Calendars.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.IO.Compression.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.IO.FileSystem.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.Net.Http.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.Net.Sockets.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.Reflection.Metadata.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.ValueTuple.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.Xml.XmlDocument.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.Xml.XPath.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\vbc.exe
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\vbc.exe.config
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\vbc.rsp
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\VBCSCompiler.exe
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\roslyn\VBCSCompiler.exe.config
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\پروژه های سایت\ProjectGym\ProjectGym\obj\Debug\ProjectGym.csproj.AssemblyReference.cache
+E:\پروژه های سایت\ProjectGym\ProjectGym\obj\Debug\ProjectGym.csproj.CoreCompileInputs.cache
+E:\پروژه های سایت\ProjectGym\ProjectGym\obj\Debug\ProjectGym.csproj.CopyComplete
+E:\پروژه های سایت\ProjectGym\ProjectGym\obj\Debug\ProjectGym.dll
+E:\پروژه های سایت\ProjectGym\ProjectGym\obj\Debug\ProjectGym.pdb
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\ProjectGym.dll.config
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\ProjectGym.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\ProjectGym.pdb
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\csc.exe
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\csc.exe.config
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\csc.rsp
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\csi.exe
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\csi.exe.config
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\csi.rsp
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.AppContext.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.Console.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.IO.Compression.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.Net.Http.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.ValueTuple.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\vbc.exe
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\vbc.exe.config
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\vbc.rsp
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\VBCSCompiler.exe
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\obj\Debug\ProjectGym.csproj.AssemblyReference.cache
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\obj\Debug\ProjectGym.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\obj\Debug\ProjectGym.csproj.Up2Date
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\obj\Debug\ProjectGym.dll
+C:\Users\Laptop Markazi\Downloads\ProjectGym\ProjectGym\obj\Debug\ProjectGym.pdb

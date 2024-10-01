@@ -1,0 +1,133 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    direction: rtl;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+    a:hover {
+        color: #000000
+    }
+
+.my-color {
+    color: rgba(103,35,197,1);
+    text-shadow: 2px 2px 2px #808080
+}
+
+.my-btn {
+    background: linear-gradient(87deg, rgba(150,212,255,1) 4%, rgba(170,105,244,1) 84%);
+    border-radius: 10px;
+    width: 40%;
+    list-style-type: none
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+.fix-meno {
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+
+.top-part {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid #c4c4c4;
+    background-color: #fff
+}
+
+.my-btn-meno {
+    background: rgba(174,216,238,1);
+    border-radius: 5px;
+    margin-left: 1rem;
+}
+
+.my-center {
+    text-align: center;
+}
+
+
+
+.my-bg {
+    background: linear-gradient(75deg, rgba(95,85,249,1) 1%, rgba(162,208,255,1) 91%);
+    border-radius: 20px 20px 0px 0px
+}
+
+.b-1 {
+    background-image: url('img/1.jpg');
+    background-repeat: no-repeat;
+    width: 30%;
+    height: 150px;
+    border-radius: 10px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+    .center img {
+        transition: all 1s ease
+    }
+
+        .center img:hover {
+            transform: scale(1.4);
+            z-index: 2
+        }
+
+.my-card {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-color {
+    background-color: #E6E6FA;
+}
+
+.my-card-color {
+    background-color: #cce0f6;
+}
+
+.fa-heart {
+    font-size: 30PX;
+    color: #ff6c71;
+    cursor: pointer;
+}
+
+    .fa-heart:hover {
+        color: #fb0808;
+        animation: heart 1s infinite
+    }
+
+@keyframes heart {
+    0% {
+        transform: scale(1);
+    }
+
+    20% {
+        transform: scale(1.1);
+    }
+
+    40% {
+        transform: scale(1.2);
+    }
+}
+
+.text {
+    border: 2PX dashed #000000;
+    text-align: justify;
+    padding: 2rem;
+    border-radius: 10px;
+    line-height: 50px;
+}
